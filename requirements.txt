@@ -1,0 +1,7 @@
+MongoDB Atlas
+Python 3.x
+Pandas
+NumPy
+Streamlit
+GeoPandas or Folium
+Tableau or Power BI

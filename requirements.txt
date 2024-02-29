@@ -1,7 +1,7 @@
-MongoDB Atlas
-Python 3.x
-Pandas
-NumPy
-Streamlit
-GeoPandas or Folium
-Tableau or Power BI
+pandas==1.4.0
+numpy==1.22.1
+pymongo==4.6.1
+seaborn==0.11.2
+plotly==5.3.1
+matplotlib==3.7.2
+wordcloud==1.9.3

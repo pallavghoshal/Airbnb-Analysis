@@ -98,6 +98,8 @@ This project focuses on analyzing Airbnb data using MongoDB Atlas, involving tas
 - GeoPandas or Folium
 - Tableau or Power BI
 
+  pip install -r requirements.txt
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
